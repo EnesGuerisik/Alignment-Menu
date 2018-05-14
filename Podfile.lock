@@ -1,0 +1,16 @@
+PODS:
+  - TweenKit (0.3.1)
+
+DEPENDENCIES:
+  - TweenKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - TweenKit
+
+SPEC CHECKSUMS:
+  TweenKit: eae162e1c18598ffd09097c3fc628fbc62036742
+
+PODFILE CHECKSUM: ed36a8034512664886f030faa8da46ac6993a9bf
+
+COCOAPODS: 1.5.0
